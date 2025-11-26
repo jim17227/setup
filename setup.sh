@@ -6,7 +6,7 @@
 #   b. log in to GitHub.com
 #   c. clone the "setup" repository.
 #   d. change to the directory where the "setup" repository was cloned.
-#   e. execute ./setup.sh
+#   e. execute ./setup.sh.
 
 setup_dirs="backup bin etc lib share src tftp tftp/netboot var var/log"
 echo $(pwd)/$0
